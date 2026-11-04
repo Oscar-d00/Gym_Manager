@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\Gym_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gym_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\athletes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:athletes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gym_Manager.py",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\Gym_Manager.py",
+              "RelativeDocumentMoniker": "Gym_Manager.py",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\Gym_Manager.py",
+              "RelativeToolTip": "Gym_Manager.py",
+              "ViewState": "AgIAABoAAAAAAICbKSMuwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-02T13:16:31.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "athletes.txt",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\athletes.txt",
+              "RelativeDocumentMoniker": "athletes.txt",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Oscar-d00\\Gym_Manager\\athletes.txt",
+              "RelativeToolTip": "athletes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-02T13:16:29.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
